@@ -1,0 +1,28 @@
+# Target folder & build outputs
+target/
+*.jar
+*.war
+*.ear
+
+# SQLite Database Files
+*.db
+*.db-journal
+*.db-wal
+
+# IDE metadata & settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+*.swp
+
+# OS & Log Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporary test payload files
+signup.json
+login.json
